@@ -1,34 +1,27 @@
-<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan"> Process and Operations Analyst</a>, <a href="https://www.linkedin.com/in/cjdunagan/">Data Manager</a>
+<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan">Data Analyst</a>, <a href="https://www.linkedin.com/in/cjdunagan/">Process Analyst</a>, <a href="https://www.youtube.com">YouTuber?</a></h1>
 
-<h2> Current Projects</h2>
-- [Example Active Directory](https://github.com/cjdunagan/Active-Directory-Lab)
 <h2>👨‍💻 Software Development Projects:</h2>
- - < Software dev projects here >
-<h2> Cyber Security Projects</h2>
-- [Active Directery Homelab](https://github.com/cjdunagan/LABURL)
-  -
-<h2> Other Projects</h2>
-- [Active Directery Homelab](https://github.com/cjdunagan/LABURL)
-   
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 YouTube Videos</h2>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [My example project here](https://github.com/cjdunagan/Active-Directory-Lab)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
-- [How I created my first Data Aanalyst Project](https://www.youtube.com)
-- [Utilizing Excel for small data sets when other alternatives aren't available.](https://www.youtube.com)
-- [Ransomware Demonstration (C#)](https://www.youtube.com)
+<h2>📺 Popular YouTube Videos</h2>
 
-<h2>Certifications</h2>
-- Google Data Analyst
+- [Example Youtube vid here](https://www.youtube.com)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="CJDunagan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CJDunagan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="CJDunagan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/cjdunagan
-[linkedin]: https://linkedin.com/in/cjdunagan
-[bluesky]: https://bluesky.com 
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
