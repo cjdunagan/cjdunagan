@@ -4,18 +4,18 @@
   - Current Project here
 
 <h2> 👨‍💻 Data Analysis & Software Projects </h2>
-[Practicing Big Data](https://github.com/cjdunagan)
 
+[Capstone Project](https://github.com/cjdunagan)
 - <b>SQL / Python / C# / R: </b>
   - [Project #1]
   - [Project #2]
 - <b>Excel VBA</b>
   - [Project #1]
   - Active Data refresher based on inputs
- - <b>Active Directory </b>
+- <b>Powershell/Bash </b>
    - [My example project here](https://github.com/cjdunagan/Active-Directory-Lab)
--Powershell/Bash
-   - [Project #1]
+   - Active directory
+ 
 
 <h2> Visualizations & Presentations:</h2>
 
