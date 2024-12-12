@@ -1,4 +1,4 @@
-<h1>Hi, I'm CJ! <br/><a href="https://github.com/joshmadakor1"> Process and Operations Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Manager</a>
+<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan"> Process and Operations Analyst</a>, <a href="https://www.linkedin.com/in/cjdunagan/">Data Manager</a>
 
 <h2> Current Projects</h2>
 - [Put active projects here](https://github.com/cjdunagan/LABURL)
@@ -22,9 +22,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CJDunagan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="CJDunagan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="CJDunagan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/cjdunagan
 [linkedin]: https://linkedin.com/in/cjdunagan
