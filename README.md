@@ -1,7 +1,37 @@
-## Hi there 👋
+<h1>Hi, I'm CJ! <br/><a href="https://github.com/joshmadakor1"> Process and Operations Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Manager</a>
+
+<h2> Current Projects</h2>
+- [Put active projects here](https://github.com/cjdunagan/LABURL)
+<h2>👨‍💻 Software Development Projects:</h2>
+ - < Software dev projects here >
+<h2> Cyber Security Projects</h2>
+- [Active Directery Homelab](https://github.com/cjdunagan/LABURL)
+  -
+<h2> Other Projects</h2>
+- [Active Directery Homelab](https://github.com/cjdunagan/LABURL)
+   
+
+<h2>📺 YouTube Videos</h2>
+
+- [How I created my first Data Aanalyst Project](https://www.youtube.com)
+- [Utilizing Excel for small data sets when other alternatives aren't available.](https://www.youtube.com)
+- [Ransomware Demonstration (C#)](https://www.youtube.com)
+
+<h2>Certifications</h2>
+- Google Data Analyst
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/c/cjdunagan
+[linkedin]: https://linkedin.com/in/cjdunagan
+[bluesky]: https://bluesky.com 
 
 <!--
-**cjdunagan/cjdunagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
