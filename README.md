@@ -1,27 +1,43 @@
 <h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan">Data Analyst</a>, <a href="https://www.linkedin.com/in/cjdunagan/">Process Analyst</a>, <a href="https://www.youtube.com">YouTuber?</a></h1>
 
+- <h3> Resume </h2>
+
+<h2>Current Projects </h2>
+  - Current Project here
+  
+  
 <h2>👨‍💻 Software Development Projects:</h2>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Spaceholder](https://github.com/cjdunagan)
+- <b>Active Directory </b>
   - [My example project here](https://github.com/cjdunagan/Active-Directory-Lab)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Project #2 </b>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2> Data Analysis </h2>
+  - [Practicing Big Data](https://github.com/cjdunagan)
+
+- <b>SQL / Python: </b>
+  - [My example project here]
+- <b>Excel VBA</b>
+- Active Data refresher based on inputs
+  
+<h2>📺 YouTube Videos</h2>
 
 - [Example Youtube vid here](https://www.youtube.com)
 
+- <h2> Certifications & Achievements </h2>
+  - [Practicing Big Data](https://github.com/cjdunagan)
+
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CJDunagan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="CJDunagan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="CJDunagan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/CJDunagan
+[youtube]: https://www.youtube.com/c/CJDunagan
+[linkedin]: https://linkedin.com/in/CJDunagan
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
