@@ -1,4 +1,4 @@
-<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan"> Process and Operations Analyst </a> 
+<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan"> Analyst</a>, <a href="https://github.com/cjdunagan"> IT Professional</a>
 
 <h2>Current Projects </h2>
   - Current Project here
