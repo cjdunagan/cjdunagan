@@ -1,33 +1,39 @@
-<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan">Data Analyst</a>, <a href="https://www.linkedin.com/in/cjdunagan/">Process Analyst</a>, <a href="https://www.youtube.com">YouTuber?</a></h1>
-
-- <h3> Resume </h2>
+<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan"> Process and Operations Analyst </a> 
 
 <h2>Current Projects </h2>
   - Current Project here
-  
-  
-<h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Spaceholder](https://github.com/cjdunagan)
-- <b>Active Directory </b>
-  - [My example project here](https://github.com/cjdunagan/Active-Directory-Lab)
-- <b>Project #2 </b>
+<h2> 👨‍💻 Data Analysis & Software Projects </h2>
+[Practicing Big Data](https://github.com/cjdunagan)
 
-<h2> Data Analysis </h2>
-  - [Practicing Big Data](https://github.com/cjdunagan)
-
-- <b>SQL / Python: </b>
-  - [My example project here]
+- <b>SQL / Python / C# / R: </b>
+  - [Project #1]
+  - [Project #2]
 - <b>Excel VBA</b>
-- Active Data refresher based on inputs
-  
+  - [Project #1]
+  - Active Data refresher based on inputs
+ - <b>Active Directory </b>
+   - [My example project here](https://github.com/cjdunagan/Active-Directory-Lab)
+-Powershell/Bash
+   - [Project #1]
+
+<h2> Visualizations & Presentations:</h2>
+
+- <b>Tableau: </b>
+  - [Project #1]
+  - [Project #2]
+- <b>PowerBI</b>
+  - [Project #1]
+
 <h2>📺 YouTube Videos</h2>
 
 - [Example Youtube vid here](https://www.youtube.com)
 
-- <h2> Certifications & Achievements </h2>
-  - [Practicing Big Data](https://github.com/cjdunagan)
+<h2> Certifications & Achievements </h2>
 
+  - Google Data Analytics Professional Certificate (In Progress) 
+  - IBM Business Intelligence (BI) Analyst Professional Certificate (In Progress)
+  - Eagle Scout - Boy Scouts of America 
 
 <h2> 🤳 Connect with me:</h2>
 
