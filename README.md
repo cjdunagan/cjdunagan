@@ -17,7 +17,7 @@
    - Active directory
  
 
-<h2> Visualizations & Presentations:</h2>
+<h2> 🖥️ Visualizations & Presentations:</h2>
 
 - <b>Tableau: </b>
   - [Project #1]
