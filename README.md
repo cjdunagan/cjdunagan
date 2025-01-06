@@ -1,4 +1,4 @@
-<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan"> Data Analyst</a>, <a href="https://github.com/cjdunagan"> Financial Analyst</a>
+<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan"> Analyst</a>, <a href="https://github.com/cjdunagan"> Operational Efficiency Focus</a>
 
 <h2>Current Projects </h2>
   - PSM (Parameter Search Matrix)
