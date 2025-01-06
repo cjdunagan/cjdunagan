@@ -1,33 +1,28 @@
-<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan"> Analyst</a>, <a href="https://github.com/cjdunagan"> IT Professional</a>
+<h1>Hi, I'm CJ! <br/><a href="https://github.com/cjdunagan"> Data Analyst</a>, <a href="https://github.com/cjdunagan"> Financial Analyst</a>
 
 <h2>Current Projects </h2>
-  - Current Project here
+  - PSM (Parameter Search Matrix)
 
 <h2> 👨‍💻 Data Analysis & Software Projects </h2>
 
-[Capstone Project](https://github.com/cjdunagan)
+[Full Stack Dev Project - PSM](https://github.com/cjdunagan)
 - <b>SQL / Python / C# / R: </b>
-  - [Project #1]
-  - [Project #2]
+  - [SQL](https://github.com/cjdunagan)
+  - [Project #2 - In development]
 - <b>Excel VBA</b>
-  - [Project #1]
-  - Active Data refresher based on inputs
+  - [Active Data Refresher - In development]
 - <b>Powershell/Bash </b>
-   - [My example project here](https://github.com/cjdunagan/Active-Directory-Lab)
-   - Active directory
+   - [Active Directory](https://github.com/cjdunagan/Active-Directory-Lab)
+   - [Project #2 - In development]
  
 
 <h2> 🖥️ Visualizations & Presentations:</h2>
 
 - <b>Tableau: </b>
-  - [Project #1]
-  - [Project #2]
+  - [Sales Forecast - In development]
 - <b>PowerBI</b>
-  - [Project #1]
+  - [Manufacturing Resource Allocation Dashboard - In development]
 
-<h2>📺 YouTube Videos</h2>
-
-- [Example Youtube vid here](https://www.youtube.com)
 
 <h2> Certifications & Achievements </h2>
 
