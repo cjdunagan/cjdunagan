@@ -5,7 +5,7 @@
 
 <h2> 👨‍💻 Data Analysis & Software Projects </h2>
 
-[Full Stack Dev Project - PSM](https://github.com/cjdunagan)
+[Full Stack Dev Project - PSM](https://github.com/cjdunagan/PSM)
 - <b>SQL / Python / C# / R: </b>
   - [SQL](https://github.com/cjdunagan)
   - [Project #2 - In development]
